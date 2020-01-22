@@ -1,0 +1,7 @@
+The Python Client, PyWS-Client.py, needs to be run using Python3 (E.G., python3 PyWS-Client.py)
+
+The PhiServer, PhiServer.exe, can be run using mono in Linux
+
+The PhiMod for RimWorld needs to be run using RimWorld Alpha 15. I am going to look into seeing if it can be run with any of the other alphas or betas.
+
+The main purpose of this github repository is to provide a client independent of the game that can connect to PhiServer. For example, so that you can talk to people in the game with out having to load the game itself.
